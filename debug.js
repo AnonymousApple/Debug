@@ -1,4 +1,4 @@
-// Delete this code below and add your BROKEN code.
+// Delete this code below and add YOUR broken code.
 var woolOwners = [
   {
 	  "master": 1
